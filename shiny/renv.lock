@@ -3,26 +3,6 @@
     "Version": "4.3.3",
     "Repositories": [
       {
-        "Name": "BioCsoft",
-        "URL": "https://packagemanager.posit.co/bioconductor/packages/3.18/bioc"
-      },
-      {
-        "Name": "BioCann",
-        "URL": "https://packagemanager.posit.co/bioconductor/packages/3.18/data/annotation"
-      },
-      {
-        "Name": "BioCexp",
-        "URL": "https://packagemanager.posit.co/bioconductor/packages/3.18/data/experiment"
-      },
-      {
-        "Name": "BioCworkflows",
-        "URL": "https://packagemanager.posit.co/bioconductor/packages/3.18/workflows"
-      },
-      {
-        "Name": "BioCbooks",
-        "URL": "https://packagemanager.posit.co/bioconductor/packages/3.18/books"
-      },
-      {
         "Name": "CRAN",
         "URL": "https://packagemanager.posit.co/cran/__linux__/jammy/latest"
       }
