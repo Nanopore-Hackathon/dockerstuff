@@ -1,0 +1,11 @@
+name: base
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bioconda::bioconductor-deseq2
+  - bioconda::bioconductor-dexseq
+  - bioconda::minimap2
+  - bioconda::bioconductor-drimseq
+  - bioconda::salmon
